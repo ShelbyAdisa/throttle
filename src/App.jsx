@@ -193,7 +193,7 @@ const App = () => {
             <div className="header-logo">
               <Truck className="header-icon" />
             </div>
-            <h1 className="header-title">Delivery Central</h1>
+            <h1 className="header-title">ThrottleHeat</h1>
           </div>
           
           <div className="header-right">
