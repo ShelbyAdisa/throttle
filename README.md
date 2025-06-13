@@ -1,13 +1,59 @@
-# React + Vite
+#  ThrottleHeat – A 2D Food Delivery Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ThrottleHeat** is a fun and lightweight 2D game where you play as a food delivery truck driver. Inspired by classic driving games, it focuses on delivering hot meals around a city while managing fuel, time, and your vehicle.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Game Concept
 
-## Expanding the ESLint configuration
+In this game, you will:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# throttle
+- Pick up food orders from restaurants
+
+- Deliver meals to customers' homes on time
+
+- Avoid traffic and obstacles on a 2D city map
+
+- Keep your truck fueled and in good condition
+
+- Earn money and upgrade your truck for better speed and efficiency
+
+---
+
+## Tech Stack
+
+**Frontend:**
+
+- HTML5, CSS (Tailwind), JavaScript
+
+- React for game interface and controls
+
+**Backend:**
+
+- Python, Django + Django REST Framework
+
+- SQLite or PostgreSQL for storing user data and game progress
+
+**Other Tools:**
+
+- Git for version control
+
+- Vite for faster frontend builds
+
+- Axios or Fetch for API calls
+
+---
+
+## Features
+
+- 2D top-down driving with keyboard controls
+
+- Timed food delivery missions
+
+- Fuel and food freshness tracking
+
+- Truck upgrades and progress tracking
+
+- User accounts with login and leaderboard
+
+- REST API integration between frontend and backend
